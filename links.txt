@@ -1,0 +1,13 @@
+links.txt
+Created Tue Jul 10 08:09:45 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+exFAT related links
+
+
+Links
+=====
+How to Mount and Use an exFAT Drive on Linux
+by Chris Hoffman on December 10th, 2015
+https://www.howtogeek.com/235655/how-to-mount-and-use-an-exfat-drive-on-linux/
