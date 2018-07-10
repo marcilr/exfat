@@ -1,0 +1,19 @@
+README
+Created Tue Jul 10 08:08:55 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+exfat.txt
+  exFAT
+  The exFAT file system is ideal for flash drives and SD cards.
+  It’s like FAT32, but without the 4 GB file size limit.  You
+  can use exFAT drives on Linux with full read-write support,
+  but you’ll need to install a few packages first.
+  --How to Mount and Use an exFAT Drive on Linux
+    by Chris Hoffman on December 10th, 2015
+    https://www.howtogeek.com/235655/how-to-mount-and-use-an-exfat-drive-on-linux/
+
+links.txt
+  exFAT related links
